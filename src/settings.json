@@ -1,0 +1,45 @@
+{
+  "debug": false,
+  "CocosEngine": "3.5.1",
+  "designResolution": { "width": 960, "height": 640, "policy": 4 },
+  "platform": "web-desktop",
+  "exactFitScreen": false,
+  "bundleVers": {},
+  "subpackages": [],
+  "remoteBundles": [],
+  "hasResourcesBundle": false,
+  "hasStartSceneBundle": false,
+  "launchScene": "db://assets/Scenes/Main.scene",
+  "jsList": [],
+  "moduleIds": [],
+  "renderPipeline": "",
+  "engineModules": [],
+  "server": "",
+  "customLayers": [],
+  "preloadAssets": [],
+  "splashScreen": {
+    "displayRatio": 0.4,
+    "totalTime": 3000,
+    "effect": "",
+    "clearColor": { "x": 0.88, "y": 0.88, "z": 0.88, "w": 1 },
+    "displayWatermark": true,
+    "base64src": "data:image/png;base64,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"
+  },
+  "customJointTextureLayouts": [],
+  "physics": {
+    "physicsEngine": "physics-ammo",
+    "gravity": { "x": 0, "y": -10, "z": 0 },
+    "allowSleep": true,
+    "sleepThreshold": 0.1,
+    "autoSimulation": true,
+    "fixedTimeStep": 0.0166667,
+    "maxSubSteps": 1,
+    "defaultMaterial": {
+      "friction": 0.5,
+      "rollingFriction": 0.1,
+      "spinningFriction": 0.1,
+      "restitution": 0.1
+    }
+  },
+  "scriptPackages": ["./src/chunks/bundle.js"]
+}
